@@ -1,6 +1,6 @@
 # machine_learning_algorithms
 
-These algorithms are based on the course Machine-Learning by Stanford University
+These algorithms are based on the course Machine-Learning by Stanford University                                                          
 1.Linear Regression                                                                            
 2.Logistic Regression                                                                        
 3.Classification                                                                              
